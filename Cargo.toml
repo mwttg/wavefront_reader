@@ -1,6 +1,5 @@
 [package]
 name = "wavefront_reader"
-path = "src/lib.rs"
 version = "0.1.0-SNAPSHOT"
 edition = "2021"
 authors = ["Marco Wittig <Marco-Wittig@gmx.de>"]
